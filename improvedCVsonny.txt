@@ -1,0 +1,44 @@
+insert line between every lines :
+
+:%s/$/\r/
+
+%  specifies the range.
+   the percent sign tells nvim to apply the command to the entire file (from line 1 to the very last line).
+
+s  stands for substitute.
+   this tells neovim that you want to find a pattern and replace it with something else.
+
+/  the delimiter.
+   it separates the different parts of the command (range/action / find / replace /).
+
+$  the search pattern.
+   in regular expressions, the dollar sign represents an "anchor" that matches the end of a line.
+   it does not match a physical character, just the empty space at the very end of text.
+
+\r the replacement text.
+   in neovim substitution, \r represents a carriage return (a new line).
+   note: while \n usually means newline in search patterns, you must use \r in the replacement section of a vim substitute command to insert a physical line break.
+
+
+
+
+
+HaGa IT Solution
+
+Design database schemas using Django ORM and optimize complex SQL queries for speed
+
+Build and maintain RESTful APIs to enable seamless frontend and mobile app communication
+
+Implement authentication, authorization, and data protection; write thorough unit tests and perform code reviews
+
+Work alongside frontend developers, UX/UI designers, and product managers to deliver cohesive web solutions
+
+RESTful API is accessed using the HTTP protocol
+
+Naming and URL structure consistently will produce a good API and easy for developers to understand
+
+URLs APIs are usually called endpoints in their calls
+
+Example of naming URLs / endpoints the good ones are as follows: /users /users/1234 /users/1234/photos
+
+Improved API Performance
