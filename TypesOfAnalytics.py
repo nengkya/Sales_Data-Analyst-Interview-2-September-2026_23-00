@@ -76,38 +76,14 @@ Types of Analytics
 3. Predictive Analytics
 
    Predictive analytics focuses on what is likely to happen in the future.
-
    It uses past and current data, along with statistical models and machine learning, to forecast outcomes such as customer behavior, market demand or risks.
 
+   Applications
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   - Linear Regression                : Predicting numerical outcomes like sales or revenue growth.
+   - Time Series Forecasting          : Estimating future trends such as demand or stock prices.
+   - Data Mining                      : Uncovering patterns that indicate future behavior.
+   - Predictive Modeling              : Creating models to predict customer churn, fraud or credit risk.
+   - Decision Analysis & Optimization : Evaluating scenarios to determine the best strategy.
+   - Transaction Profiling            : Detecting suspicious or unusual financial transactions.
 '''
