@@ -1,0 +1,28 @@
+Q Q Q     Cold Snap           Freezes enemies periodically when they take damage.
+
+
+Q Q W     Ghost Walk          Turns Invoker invisible and slows nearby enemies.
+
+
+Q Q E     Ice Wall            Places a freezing wall that heavily slows and damages enemies.
+
+
+W W W     EMP                 Explodes an electrical charge, draining mana and dealing damage.
+
+
+W W Q     Tornado             Launches a fast-moving vortex that lifts enemies into the air.
+
+
+W W E     Alacrity            Grants massive attack speed and bonus damage to a single ally.
+
+
+E E E     Sun Strike          Strikes a global targeted area with a pillar of pure damage.
+
+
+E E Q     Forge Spirit        Summons powerful elementals to reduce enemy armor.
+
+
+E E W     Chaos Meteor        Pulls down a rolling meteor that deals intense burn damage.
+
+
+Q W E    Deafening Blast     Fires a sonic wave that disarms enemies and pushes them back.

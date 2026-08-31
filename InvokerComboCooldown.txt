@@ -1,0 +1,7 @@
+Ghost Walk            40 seconds        Q Q W
+
+Tornado               27 seconds        W W Q
+
+EMP                   27 seconds        W W W
+
+Chaos Meteor          50 seconds        E E W
